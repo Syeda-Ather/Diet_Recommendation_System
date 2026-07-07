@@ -75,4 +75,3 @@ pip install -r requirements.txt
 
 ## Author
 Syeda Ather Fatima
-Final Year Project
